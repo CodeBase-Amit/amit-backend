@@ -1,0 +1,18 @@
+{
+  "name": "amitsbackend",
+  "version": "1.0.0",
+  "description": "a backend for learning",
+  "keywords": [
+    "js",
+    "backend",
+    "node",
+    "express"
+  ],
+  "license": "ISC",
+  "author": "Amit Sharma",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
